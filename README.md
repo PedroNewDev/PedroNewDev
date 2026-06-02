@@ -15,11 +15,12 @@
 
 ## 🤝 About my work
 
-Most of my projects are **client work and proprietary SaaS** — conversion funnels, paid-traffic landing pages, internal tooling and full-stack platforms.
+The majority of my codebase is **private client work and proprietary SaaS** — internal tools, conversion-driven web apps, paid-traffic landing pages and full-stack platforms.
 
-> ⚠️ **NDA-friendly portfolio:** I describe the **technology, architecture and stack** behind each project. I do **not** share offers, copy, conversion data or business strategy. Sources are kept private to protect clients and avoid offer cloning.
-
-If you'd like to discuss a specific case study under NDA, get in touch.
+> ⚠️ **NDA-friendly portfolio**
+> I openly discuss the **technology, architecture and engineering decisions** behind each project. I do **not** publish offers, copy, conversion data or commercial strategy. Sources stay private to protect clients.
+>
+> Happy to walk through any project in detail in a private conversation.
 
 ---
 
@@ -76,45 +77,58 @@ TypeScript · JavaScript · Python · PHP · HTML · CSS · SQL · Bash
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Private Portfolio Highlights
 
-> The repos below are **private** — I can describe the stack and architecture, but the source is not public.
+> The projects below are **private repositories** — I can describe the stack and architecture in depth, but the source is kept confidential.
 
-### 🛡️ Tickshield — Production SaaS
-> Real-time SaaS platform built with **Next.js 14 (App Router) + TypeScript + Supabase**.
-> Server-side auth, real-time database subscriptions, modular feature architecture, Playwright E2E coverage.
+### 🛡️ Production SaaS Platform
+> Real-time SaaS built with **Next.js 14 (App Router) + TypeScript + Supabase**.
+> Server-side auth, real-time database subscriptions, modular feature architecture and full Playwright E2E coverage.
 >
-> **Stack:** `Next.js 14` · `TypeScript` · `Supabase` · `TailwindCSS` · `Framer Motion` · `Playwright`
+> **Stack:** \`Next.js 14\` · \`TypeScript\` · \`Supabase\` · \`TailwindCSS\` · \`Framer Motion\` · \`Playwright\`
 
-### 📅 Cronograma — Internal Scheduling App
-> Modern scheduling tool with drag-and-drop interactions, **Drizzle ORM + better-auth** and **Docker** deployment.
-> Built on TanStack Query for server-state, dnd-kit for interactions, shipped via container.
+### 📅 Operational SaaS — Scheduling & Workflows
+> Internal tooling app with drag-and-drop interactions, **Drizzle ORM + better-auth** and **Docker** deployment.
+> Built on TanStack Query for server state, dnd-kit for interactions, shipped as a container.
 >
-> **Stack:** `Next.js` · `TypeScript` · `Drizzle ORM` · `better-auth` · `Docker` · `TanStack Query`
+> **Stack:** \`Next.js\` · \`TypeScript\` · \`Drizzle ORM\` · \`better-auth\` · \`Docker\` · \`TanStack Query\`
 
-### 🏛️ Multi-tier Full-Stack Platform
-> Production full-stack web application with **strict module separation** — independent `api/`, `backend/`, `database/` and `frontend/` layers.
-> Express + MySQL with **JWT-based auth**, deployed behind a reverse proxy.
+### 🏛️ Multi-tier Full-Stack Application
+> Production web app with **strict module separation** — independent \`api/\`, \`backend/\`, \`database/\` and \`frontend/\` layers.
+> Express + MySQL with **JWT-based auth**, reverse-proxied through Nginx.
 >
-> **Stack:** `Node.js` · `Express` · `MySQL` · `JWT` · `REST API` · `Vercel`
+> **Stack:** \`Node.js\` · \`Express\` · \`MySQL\` · \`JWT\` · \`REST API\`
 
-### 🌐 Devotional PWA Platform
-> **Progressive Web App** with full **Node.js backend**, payment integration and email automation.
-> Service worker + offline-first caching, manifest, payment webhooks, transactional email via Brevo SMTP, JWT auth.
+### 🌐 Progressive Web App with Backend
+> **PWA** with full **Node.js backend**, payment integration and transactional email automation.
+> Service worker + offline-first caching, manifest, payment webhooks, Brevo SMTP, JWT auth.
 >
-> **Stack:** `PWA` · `Node.js` · `Service Worker` · `Workbox` · `JWT` · `Payment Webhooks` · `Brevo`
+> **Stack:** \`PWA\` · \`Node.js\` · \`Service Worker\` · \`Workbox\` · \`JWT\` · \`Brevo\`
 
 ### 📊 Discord Analytics Bot
 > **Production-grade Python Discord bot** with modular **cogs architecture**.
-> Deployed as a `systemd` service with a setup script for reproducible installs on Linux.
+> Deployed as a \`systemd\` service with reproducible setup script on Linux.
 >
-> **Stack:** `Python` · `discord.py` · `systemd` · `Linux`
+> **Stack:** \`Python\` · \`discord.py\` · \`systemd\` · \`Linux\`
 
-### ⚡ High-Performance Landing Page
-> Conversion-optimized landing page built with **Vite + React + TailwindCSS**.
+### ⚡ High-Performance Landing Pages
+> Conversion-optimized landing pages built with **Vite + React + TailwindCSS**.
 > Animated with Framer Motion, optimized for Core Web Vitals, deployed via static hosting.
 >
-> **Stack:** `Vite` · `React` · `TailwindCSS` · `Framer Motion` · `Lucide`
+> **Stack:** \`Vite\` · \`React\` · \`TailwindCSS\` · \`Framer Motion\`
+
+---
+
+## 📂 Public Repositories
+
+A few open repos showcasing study work, college projects and small experiments:
+
+- 🎓 [**projeto-extensao**](https://github.com/PedroNewDev/projeto-extensao) — Full-stack college project (Smarty Entregas) — Node + Express backend
+- 🌐 [**Conex-o-API**](https://github.com/PedroNewDev/Conex-o-API) — REST API connection exercise with HTML/JS frontend
+- 🎨 [**ProjetoPessoal**](https://github.com/PedroNewDev/ProjetoPessoal) — Personal project exploring CSS layouts and animations
+- 🐳 [**Atividade-docker**](https://github.com/PedroNewDev/Atividade-docker) · [**Luis-docker**](https://github.com/PedroNewDev/Luis-docker) — Docker containerization exercises
+
+> Production code is kept private. Reach out for portfolio walkthroughs under NDA.
 
 ---
 
