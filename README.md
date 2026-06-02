@@ -27,8 +27,16 @@ If you'd like to discuss a specific case study under NDA, get in touch.
 
 **Languages**
 \`\`\`
-TypeScript · JavaScript · Python · HTML · CSS · SQL · Bash
+TypeScript · JavaScript · Python · PHP · HTML · CSS · SQL · Bash
 \`\`\`
+
+> 🌱 **Currently learning:** **PHP** — exploring backend services, WordPress internals and integrations.
+> I'm still a **junior developer** in active growth, so PHP code in my repos reflects an ongoing learning journey rather than production-grade experience.
+
+<p>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP%20Level-Learning-orange?style=flat"/>
+</p>
 
 **Frontend**
 <p>
