@@ -1,6 +1,6 @@
 # Hi, I'm Pedro 👋
 
-**Full-stack developer*
+**Full-stack developer**
 
 I ship production SaaS platforms, conversion-driven web apps and high-performance landing pages.
 
