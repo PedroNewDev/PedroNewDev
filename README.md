@@ -1,6 +1,7 @@
 # Hi, I'm Pedro 👋
 
-**Full-stack developer based in São Mateus do Sul, PR — Brazil 🇧🇷**
+**Full-stack developer*
+
 I ship production SaaS platforms, conversion-driven web apps and high-performance landing pages.
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedroalbuquerquedefarias@gmail.com)
